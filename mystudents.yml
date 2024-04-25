@@ -1,0 +1,22 @@
+---
+- mystudents:
+  - name: anil
+    addr: hyd
+       d.no:
+       streetno:
+       pincode:
+    phno: 9090
+  
+  - name: sunil
+    addr: hyd
+       d.no:
+       streetno:
+       pincode:
+    phno: 9090
+
+  - name: vinil
+    addr: hyd
+       d.no:
+       streetno:
+       pincode:
+    phno: 9090
